@@ -6,9 +6,7 @@ height : 100;
 }
 
 body{
-text-align: center;
- background-color: rgb(255, 241, 216);
-font-size: xx-large;
+background-color: aliceblue;
 }
 
 h1 {
@@ -28,11 +26,9 @@ h4 {
 p {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color:rgb(245, 106, 106);
-    p.solid {border-style: solid;}
 }
 
 a{
 text-decoration: none;
 color: rgb(61, 141, 245);
 }
-
